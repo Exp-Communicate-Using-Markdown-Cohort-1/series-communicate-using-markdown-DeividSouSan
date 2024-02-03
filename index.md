@@ -1,6 +1,6 @@
-# Added a header
+# Level 1 Header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![arvore](https://img.freepik.com/vetores-gratis/arvore-isolada-no-fundo-branco_1308-26130.jpg)
 
 ## Added subheader
 
@@ -8,6 +8,6 @@
 python3 main.py
 ```
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] clean the house
+- [ ] go walk outside
+- [ ] feed the dog
